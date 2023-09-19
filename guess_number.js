@@ -25,7 +25,7 @@ function TextArea(){
                 EnterNumber.disabled = true; //按鈕設定不可使用
             }
         }else{
-            H1.textContent = "請輸入數字";
+            H1.textContent = "Enter number , please";
         }
     }
 }
